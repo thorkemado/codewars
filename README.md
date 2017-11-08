@@ -1,0 +1,2 @@
+# codewars
+Narcissistic number
